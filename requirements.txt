@@ -74,7 +74,7 @@ protobuf==3.10.1
 ptyprocess==0.6.0
 py==1.8.0
 pydot==1.4.1
-Pygments==2.4.2
+Pygments==2.7.4
 pygpu==0.7.6
 pymongo==3.9.0
 pyparsing==2.4.2
